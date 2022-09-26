@@ -16,7 +16,7 @@ We scraped three data sets from the world bank, population by nations, GDP by na
 
 The three data sets come from https://data.worldbank.org/. 
 
-## Brainstrom
+## Brainstorm
 
 1. Does the national population grow when GDP increases?  
 2. As national borders are almost the same as the past 30 years, does the population increasing rate slow down as time passes? How about GDP?  
