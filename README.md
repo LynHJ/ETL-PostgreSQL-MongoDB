@@ -3,7 +3,7 @@
 
 ## Background
 
-![alt text]()
+![alt text](https://github.com/LynHJ/Project_ETL/blob/397aa1a08d8a5aae5e0d5d10564c43c164e4c4d6/image/universe25.png)
 
 The global human population reached 8 billions from an estimated 2.5 billion people in 1950. As the living space on the Earth is limited, human beings are getting more pressures from shrinking living spaces. 
 
@@ -39,45 +39,26 @@ We plan on displaying these merged datasets as tables on postgreSQL.
 
 
 ## Content:
+
 ```
 Project  
-├── Images
-│   ├── comparison-lg.png
-│   ├── comparison-sm.png
-│   ├── data-lg.png
-│   ├── data-sm.png
-│   ├── landing-sm.png
-│   ├── landingResize.png
-│   ├── nav-lg.png
-│   ├── nav-sm.png
-│   ├── visualise-lg.png
-│   └── visualise-sm.png
+├── InputData
+│   ├── GDP.csv
+│   ├── Gender_StatsData .csv
+│   └── Population.csv
 ├── README.md
-├── Resources
-│   ├── CityData.csv
-│   └── CityData.html
-├── assets
-│   ├── css
-│   │   └── style.css
-│   └── images
-│       ├── LatCloud.png
-│       ├── LatHumi.png
-│       ├── LatMaxt.png
-│       └── LatWindSd.png
-├── index.html
-└── visulisations
-    ├── Cloudiness.html
-    ├── Comparisons.html
-    ├── Humidity.html
-    ├── Max Temperature.html
-    └── Wind Speed.html
-
+├── image
+│   └── universe25.png
+├── requirements.txt
 ```
 
+## Installation
 
+pip install -r requirements.txt  
 
 ## Reference
 
 1. https://cosmosmagazine.com/science/mathematics/calhoun-rodent-experiments/  
 2. https://www.the-scientist.com/foundations/universe-25-1968-1973-69941  
 3. https://www.google.com.au/url?sa=t&source=web&cd=&ved=2ahUKEwjg_9qvqLD6AhXD7zgGHTTkCysQFnoECAUQBg&url=https%3A%2F%2Fdesapublications.un.org%2Ffile%2F989%2Fdownload&usg=AOvVaw0LKWr15IBA0_ojeoky-FfW  
+
