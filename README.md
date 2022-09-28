@@ -42,19 +42,34 @@ We plan on displaying these merged datasets as tables on postgreSQL.
 
 ```
 Project  
+├── ETL_Script.ipynb
 ├── InputData
 │   ├── GDP.csv
 │   ├── Gender_StatsData .csv
 │   └── Population.csv
+├── OutputData
+│   ├── GDP%.csv
+│   ├── gender.csv
+│   └── population.csv
+├── Project 2 Report.docx
 ├── README.md
+├── SQLkeysTemp.py
+├── .gitignore
 ├── image
 │   └── universe25.png
 ├── requirements.txt
+
 ```
 
 ## Installation
 
 pip install -r requirements.txt  
+
+## Prerequisites
+
+1. Open SQLkeysTemp.py and input your postgresql password  
+2. Open .gitignore and input SQLkeysTemp.py to secure your password  
+3. Open ETL_Script.ipynb change 'from SQLkeys' to 'from SQLkeysTemp'  
 
 ## Reference
 
