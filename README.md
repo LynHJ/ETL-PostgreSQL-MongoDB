@@ -1,7 +1,7 @@
-# <span style='font-family:Helvetica;color:#BA4A00 '>Project_ETL
+# Project_ETL
 
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Background
+## >Background
 
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/397aa1a08d8a5aae5e0d5d10564c43c164e4c4d6/image/universe25.png)
 
@@ -12,11 +12,11 @@ We saw an experiment “Universe 25, 1968-1973” which is a series of rodent ex
 We scraped three data sets from the world bank, population by nations, GDP by nations, and sex distribution by nations.
 
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Source
+## Source
 
 The three data sets come from https://data.worldbank.org/. 
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Brainstorm
+## Brainstorm
 
 1. Does the national population grow when GDP increases?  
 2. As national borders are almost the same as the past 30 years, does the population increasing rate slow down as time passes? How about GDP?  
@@ -25,7 +25,7 @@ The three data sets come from https://data.worldbank.org/.
 
 
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Process
+## Process
 
 Extracting:  
 We plan on extracting 2 separate csv files from the World Bank website. One relating to each country's population and the other to do with each country's GDP.  
@@ -38,7 +38,7 @@ We plan on displaying these merged datasets as tables on postgreSQL.
 
 
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Content:
+## Content:
 
 ```
 Project  
@@ -61,17 +61,17 @@ Project
 
 ```
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Installation
+## Installation
 
 pip install -r requirements.txt  
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Prerequisites
+## Prerequisites
 
 1. Open SQLkeysTemp.py and input your postgresql password  
 2. Open .gitignore and input SQLkeysTemp.py to secure your password  
 3. Open ETL_Script.ipynb change 'from SQLkeys' to 'from SQLkeysTemp'  
 
-## <span style='font-family:Helvetica;color:#F5B041'>Reference
+## Reference
 
 1. https://cosmosmagazine.com/science/mathematics/calhoun-rodent-experiments/  
 2. https://www.the-scientist.com/foundations/universe-25-1968-1973-69941  
