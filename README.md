@@ -71,7 +71,7 @@ pip install -r requirements.txt
 2. Open .gitignore and input SQLkeysTemp.py to secure your password  
 3. Open ETL_Script.ipynb change 'from SQLkeys' to 'from SQLkeysTemp'  
 
-## <span style='font-family:Helvetica;color:#F5B041 '>Reference
+## <span style='font-family:Helvetica;color:#F5B041'>Reference
 
 1. https://cosmosmagazine.com/science/mathematics/calhoun-rodent-experiments/  
 2. https://www.the-scientist.com/foundations/universe-25-1968-1973-69941  
