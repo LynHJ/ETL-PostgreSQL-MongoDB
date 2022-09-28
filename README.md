@@ -1,7 +1,7 @@
 # Project_ETL
 
 
-## >Background
+## Background
 
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/397aa1a08d8a5aae5e0d5d10564c43c164e4c4d6/image/universe25.png)
 
