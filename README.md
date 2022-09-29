@@ -34,12 +34,12 @@ Transforming Data:
 We plan on restricting all datasets to the last 20 years of data to keep it relevant. We will also filter out any null values in each of the datasets.  
 
 Load:  
-We plan on displaying these datasets as tables on PostgreSQL and Mongodb.   
+We plan on displaying these datasets as tables on   
 
-<emp>PostgreSQL</emp>  
+<u>PostgreSQL</u>  
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/7089603d98257b44799f3ee7721c0ae74db47c63/image/PostgreSQL.png)  
 
-<emp>Mongodb</emp>  
+<u>Mongodb</u>  
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/7089603d98257b44799f3ee7721c0ae74db47c63/image/MongoDB.png)
 
 ## Content:
