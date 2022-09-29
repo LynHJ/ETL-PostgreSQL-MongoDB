@@ -16,7 +16,7 @@ We scraped three data sets from the world bank, population by nations, GDP by na
 
 The three data sets come from https://data.worldbank.org/. 
 
-## Brainstorm
+## Objectives
 
 1. Does the national population grow when GDP increases?  
 2. As national borders are almost the same as the past 30 years, does the population increasing rate slow down as time passes? How about GDP?  
@@ -27,15 +27,15 @@ The three data sets come from https://data.worldbank.org/.
 
 ## Process
 
-<em>Extracting:</em>
+Extracting:
   
 We plan on extracting 3 separate csv files from the World Bank website. One relating to each country's population, one to do with each country's GDP and one to do with each country's gender statistics.  
 
-<em>Transforming Data: </em> 
+Transforming Data: 
 
 We plan on restricting all datasets to the last 20 years of data to keep it relevant. We will also filter out any null values in each of the datasets.  
 
-<em>Load:</em>  
+Load:  
 
 We plan on displaying these datasets as tables on   
 
@@ -45,7 +45,7 @@ We plan on displaying these datasets as tables on
 <strong>Mongodb</strong>  
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/7089603d98257b44799f3ee7721c0ae74db47c63/image/MongoDB.png)
 
-## Content:
+## Content
 
 ```
 Project  
