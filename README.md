@@ -36,10 +36,10 @@ We plan on restricting all datasets to the last 20 years of data to keep it rele
 Load:  
 We plan on displaying these datasets as tables on   
 
-<u>PostgreSQL</u>  
+<em>PostgreSQL</em>  
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/7089603d98257b44799f3ee7721c0ae74db47c63/image/PostgreSQL.png)  
 
-<u>Mongodb</u>  
+<em>Mongodb</em>  
 ![alt text](https://github.com/LynHJ/Project_ETL/blob/7089603d98257b44799f3ee7721c0ae74db47c63/image/MongoDB.png)
 
 ## Content:
