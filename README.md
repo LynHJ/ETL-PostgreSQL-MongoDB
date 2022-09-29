@@ -31,10 +31,10 @@ Extracting:
 We plan on extracting 3 separate csv files from the World Bank website. One relating to each country's population, one to do with each country's GDP and one to do with each country's gender statistics.  
 
 Transforming Data:  
-We plan on restricting all datasets to the last 10yrs of data to keep it relevant. We will also filter out any null values in each of the datasets.  
+We plan on restricting all datasets to the last 20 years of data to keep it relevant. We will also filter out any null values in each of the datasets.  
 
 Load:  
-We plan on displaying these merged datasets as tables on postgreSQL and mongodb.   
+We plan on displaying these datasets as tables on PostgreSQL and Mongodb.   
 
 
 
