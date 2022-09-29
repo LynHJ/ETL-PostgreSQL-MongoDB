@@ -28,13 +28,13 @@ The three data sets come from https://data.worldbank.org/.
 ## Process
 
 Extracting:  
-We plan on extracting 2 separate csv files from the World Bank website. One relating to each country's population and the other to do with each country's GDP.  
+We plan on extracting 3 separate csv files from the World Bank website. One relating to each country's population, one to do with each country's GDP and one to do with each country's gender statistics.  
 
 Transforming Data:  
-We plan on restricting both datasets to the last 10yrs of data to keep it relevant. We will also filter out any null values or both datasets.  
+We plan on restricting all datasets to the last 10yrs of data to keep it relevant. We will also filter out any null values in each of the datasets.  
 
 Load:  
-We plan on displaying these merged datasets as tables on postgreSQL.   
+We plan on displaying these merged datasets as tables on postgreSQL and mongodb.   
 
 
 
