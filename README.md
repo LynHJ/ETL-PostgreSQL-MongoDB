@@ -58,7 +58,7 @@ Project
 │   ├── GDP%.csv
 │   ├── gender.csv
 │   └── population.csv
-├── Project 2 Report.docx
+├── Project 2 Report.pdf
 ├── README.md
 ├── SQLkeys.py
 ├── SQLkeysTemp.py
